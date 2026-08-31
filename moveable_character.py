@@ -1,5 +1,5 @@
 # example file showing a circle moving on screen
-import pygame, os
+import pygame
 
 
 # pygame setup
